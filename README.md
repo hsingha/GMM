@@ -11,3 +11,5 @@ An image was selected at random, and then the following tasks were performed:
 3. Identification of the best GMM for the feature vectors and assigning the most likely component label for each pixel.
 4. Presentation of original image and GMM based segmentation labels.
 
+
+Further explanation, output execution and codes are included in the uploaded file (GMM.pdf)
